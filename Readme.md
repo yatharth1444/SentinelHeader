@@ -1,9 +1,5 @@
-Got it ✅ — here’s a **polished and engaging README.md** for your scanner, based on the code you’ve got so far.
-I’ve made it descriptive, professional, and still friendly enough for GitHub readers to enjoy — plus a section about what *you* learned from building it.
 
----
 
-````markdown
 # 🛡️ Node.js Security Header & SSL Scanner
 
 A powerful **command-line security scanner** built in Node.js that checks websites for **critical HTTP security headers**, **SSL certificate validity**, and gives **ready-to-use configuration fixes** for Apache, Nginx, and Express.js.
@@ -44,9 +40,8 @@ This tool is perfect for:
 - **Color-coded Output** for easy readability.
 
 ---
-````
 
-## 🚀 Installation
+##  Installation
 1. Clone the repository:
 ```bash
 git clone https://github.com/yatharth1444/SentinelHeader.git
@@ -118,7 +113,7 @@ Security Headers Check:
 
 ---
 
-## 🧠 What I Learned From Building This
+##  What I Learned From Building This
 
 This project started as a simple "check some headers" script…
 but quickly evolved into a **deep dive into real-world web security**.
@@ -150,7 +145,7 @@ Here’s what I learned:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * **Auto-detect server type** and show config fixes accordingly.
 * **JA3 TLS Fingerprinting** to identify hidden server stacks.
@@ -159,13 +154,13 @@ Here’s what I learned:
 
 ---
 
-## 📜 License
+## License
 
 MIT License — free to use, modify, and share.
 
 ---
 
-💡 *"Security is not a product, it's a process. This tool is just one more step towards a safer web."*
+ *"Security is not a product, it's a process. This tool is just one more step towards a safer web."*
 
 ```
 

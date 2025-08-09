@@ -11,7 +11,7 @@ This tool is perfect for:
 
 ---
 
-## ✨ Features
+## Features
 
 - **Security Header Analysis**  
   Detects missing or weak headers from the “Big Six”:
@@ -68,7 +68,7 @@ SentinelHeader --url https://example.com
 
 ---
 
-## 📌 Usage
+##  Usage
 
 ### Scan a single URL:
 
@@ -97,7 +97,7 @@ https://another-site.com
 
 ---
 
-## 📊 Example Output
+##  Example Output
 
 ```
 Server: nginx/1.18.0
